@@ -1,0 +1,197 @@
+@media only screen and (max-width: 330px) {
+
+  /* Small screen, non-retina */
+
+  .build-button,
+  .all-models,
+  .car-name,
+  .car-price,
+  .tools-compare,
+  .tools-build-porsche,
+  .tools-offers,
+  .tools-financial {
+    display: none;
+
+  }
+}
+
+@media only screen and (max-width: 468px) {
+
+  /* Medium screen, non-retina */
+  .card-style {
+    height: 20em;
+  }
+
+  .card-body {
+    height: 1em;
+  }
+
+  .build-button,
+  .all-models {
+    position: relative;
+    bottom: 5.24em;
+    left: .3em;
+    margin-right: .3em;
+  }
+
+  .car-name {
+    color: white;
+    font-weight: bold;
+    font-size: 4em;
+    position: relative;
+    bottom: 4em;
+    left: 1em;
+  }
+
+  .car-price {
+    color: white;
+    font-size: 20px;
+    position: relative;
+    bottom: 14em;
+    left: 3em;
+    margin-right: 1em;
+  }
+
+}
+
+@media only screen and (min-width: 468px) {
+
+  .card-group {
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+  }
+
+  .card-style {
+    margin: 0;
+    padding: 0;
+  }
+
+  .card-body {
+    position: relative;
+    margin: 0;
+    height: 0;
+    padding: 0;
+  }
+
+  .build-button,
+  .all-models {
+    position: relative;
+    bottom: 5em;
+    left: .3em;
+    margin-right: .3em;
+  }
+
+  .car-name {
+    color: white;
+    font-weight: bold;
+    font-size: 4em;
+    position: relative;
+    bottom: 4em;
+    bottom: 4em;
+    left: 1em;
+  }
+
+  .car-price {
+    color: white;
+    font-size: 20px;
+    position: relative;
+    bottom: 14em;
+    left: 3em;
+    margin-right: 1em;
+  }
+
+  .tools-group {
+    overflow: hidden;
+    margin-left: 12em;
+    margin-right: 12em;
+    padding: 0;
+  }
+
+  .tools-style {
+    margin: 0;
+    padding: 0;
+  }
+
+  .tools-body {
+    position: relative;
+    margin: 0;
+    height: 0;
+    padding: 0;
+  }
+
+  .tools-compare,
+  .tools-build-porsche,
+  .tools-offers,
+  .tools-financial {
+    color: white;
+    position: absolute;
+    font-weight: bold;
+    font-size: 1.4em;
+    bottom: 2em;
+    left: 6em;
+  }
+
+  .live-group {
+    overflow: hidden;
+    margin-left: 12em;
+    margin-right: 12em;
+    padding: 0;
+  }
+
+  .live-style {
+    margin: 0;
+    padding: 0;
+  }
+
+  .live-body {
+    position: relative;
+    margin: 0;
+    height: 0;
+    padding: 0;
+  }
+
+  .live-compare,
+  .live-build-porsche,
+  .live-offers,
+  .live-financial {
+    color: white;
+    position: absolute;
+    font-weight: bold;
+    font-size: 1.4em;
+    bottom: 2em;
+    left: 6em;
+  }
+
+  .discover-group {
+    overflow: hidden;
+    margin-left: 12em;
+    margin-right: 12em;
+    padding: 0;
+  }
+
+  .discover-style {
+    margin: 0;
+    padding: 0;
+  }
+
+  .discover-body {
+    position: relative;
+    margin: 0;
+    height: 0;
+    padding: 0;
+  }
+
+  .discover {
+    color: white;
+    position: absolute;
+    font-weight: bold;
+    font-size: 1em;
+    bottom: 2em;
+    left: 6em;
+  }
+
+  .push {
+    height: 3em;
+  }
+}
