@@ -8,7 +8,7 @@ export class CriaCarousel extends Component {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="/images/background/porsche-normal0.webp?text=First slide&bg=373940"
+            src="./images/background/porsche-normal0.webp?text=First slide&bg=373940"
             alt="First slide" />
           <Carousel.Caption className="carousel-headline">
             <h3 className="carousel-headline">{">"} Relentess.</h3>
@@ -18,7 +18,7 @@ export class CriaCarousel extends Component {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="/images/background/porsche-normal1.webp?text=Second slide&bg=282c34"
+            src="./images/background/porsche-normal1.webp?text=Second slide&bg=282c34"
             alt="Third slide" />
 
           <Carousel.Caption className="carousel-headline">
@@ -29,7 +29,7 @@ export class CriaCarousel extends Component {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="/images/background/porsche-normal2.webp?text=Third slide&bg=20232a"
+            src="./images/background/porsche-normal2.webp?text=Third slide&bg=20232a"
             alt="Third slide" />
 
           <Carousel.Caption className="carousel-headline">
@@ -42,7 +42,7 @@ export class CriaCarousel extends Component {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="/images/background/porsche-normal3.webp?text=Third slide&bg=20232a"
+            src="./images/background/porsche-normal3.webp?text=Third slide&bg=20232a"
             alt="Third slide" />
 
           <Carousel.Caption className="carousel-headline">
@@ -53,7 +53,7 @@ export class CriaCarousel extends Component {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="/images/background/porsche-normal4.webp?text=Third slide&bg=20232a"
+            src="./images/background/porsche-normal4.webp?text=Third slide&bg=20232a"
             alt="Third slide" />
           <Carousel.Caption className="carousel-headline">
             <h3 className="carousel-headline">{">"} Soul, electrified.</h3>
