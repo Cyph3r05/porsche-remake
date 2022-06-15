@@ -13,7 +13,7 @@ class BodyContent extends Component {
         <CardGroup className="card-group">
         <Row xs={1} s={2} md={3} className="g-3">
         <Card className="card-style">
-            <Card.Img className="card-img" src="/images/porsche-small_718.webp" />
+            <Card.Img className="card-img" src="./images/porsche-small_718.webp" />
             <Card.Body className="card-body">
             <Button className="build-button" variant="light">
               Build Your Porsche
