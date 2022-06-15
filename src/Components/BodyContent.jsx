@@ -68,7 +68,7 @@ class BodyContent extends Component {
           </Card>
 
           <Card className="card-style">
-            <Card.Img src="/images/porsche-small_macan.webp" />
+            <Card.Img src="./images/porsche-small_macan.webp" />
             <Card.Body className="card-body">
             <Button className="build-button" variant="light">
               Build Your Porsche
@@ -82,7 +82,7 @@ class BodyContent extends Component {
           </Card>
 
           <Card className="card-style">
-            <Card.Img src="/images/porsche-small_cayenne.webp" />
+            <Card.Img src="./images/porsche-small_cayenne.webp" />
             <Card.Body className="card-body">
             <Button className="build-button" variant="light">
               Build Your Porsche
