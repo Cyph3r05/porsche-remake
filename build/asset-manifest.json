@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/porsche-remake/static/css/main.97f895d5.css",
+    "main.js": "/porsche-remake/static/js/main.98a0b116.js",
+    "static/js/787.ccc35cd3.chunk.js": "/porsche-remake/static/js/787.ccc35cd3.chunk.js",
+    "index.html": "/porsche-remake/index.html",
+    "main.97f895d5.css.map": "/porsche-remake/static/css/main.97f895d5.css.map",
+    "main.98a0b116.js.map": "/porsche-remake/static/js/main.98a0b116.js.map",
+    "787.ccc35cd3.chunk.js.map": "/porsche-remake/static/js/787.ccc35cd3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97f895d5.css",
+    "static/js/main.98a0b116.js"
+  ]
+}
