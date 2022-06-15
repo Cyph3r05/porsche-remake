@@ -1,6 +1,7 @@
 {
   "name": "porsche",
   "version": "0.1.0",
+  "homepage": "https://cyph3r05.github.io/porsche-remake/",
   "private": true,
   "dependencies": {
     "@googlemaps/react-wrapper": "^1.1.34",
@@ -18,7 +19,6 @@
     "rsuite": "^5.13.0",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://cyph3r05.github.io/porscheRemake/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
